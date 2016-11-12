@@ -1,4 +1,4 @@
-package hello;
+package vocabulary;
 
 public class Greeting {
 
